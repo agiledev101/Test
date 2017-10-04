@@ -1,0 +1,9 @@
+{
+  "galaxy.meteor.com": { 
+     "env": { 
+       "ROOT_URL": "http://willowmix.com/", 
+       "MAIL_URL": "smtps://postmaster@sandboxd5f412846e5a4de78cb377336306f809.mailgun.org:3dc549353423e024ddf4848d2b40ad02@smtp.mailgun.org:587",
+       "MONGO_URL": "mongodb://willowAdmin:W1ll0w@ds127783.mlab.com:27783/willowmix" 
+     } 
+   }
+}
